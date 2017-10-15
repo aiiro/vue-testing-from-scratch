@@ -1,0 +1,11 @@
+{
+  "name": "vue-testing-from-scratch",
+  "version": "1.0.0",
+  "description": "Testing vue from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aiiro <aiiro4github@gmail.com>",
+  "license": "MIT"
+}
